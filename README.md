@@ -1,4 +1,5 @@
 # mAP (mean Average Precision)
+# updated for matplotlib
 
 [![GitHub stars](https://img.shields.io/github/stars/Cartucho/mAP.svg?style=social&label=Stars)](https://github.com/Cartucho/mAP)
 
